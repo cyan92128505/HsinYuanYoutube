@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# file list json
+youtube_list.json
+
+# data storage folder
+output/
+
+# ffmpeg folder
+ffmpeg/
