@@ -1,0 +1,23 @@
+{
+  "name": "hsinyuanyoutube",
+  "version": "1.0.0",
+  "description": "Use Electron and Angular 4 to build a YouTube Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyan92128505/HsinYuanYoutube.git"
+  },
+  "keywords": [
+    "Electron",
+    "Angular"
+  ],
+  "author": "cyan92128505",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyan92128505/HsinYuanYoutube/issues"
+  },
+  "homepage": "https://github.com/cyan92128505/HsinYuanYoutube#readme"
+}
